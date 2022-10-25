@@ -1,0 +1,11 @@
+OfficialPathwayName,Pathways,IntermediateCategories,CategorySymbol,CategoryColumn
+Computer Architecture,ArchitecturePath,CSCI0330,P,ProbabilityStatistics
+Data,DataPath,P | L | CSCI0330 ; CSCI0320 ; CSCI 0300,L,LinearAlgebra
+Design,DesignPath,P | CSCI0330 ; CSCI0320 ; CSCI 0300,D,DiscreteStructures
+Artificial Intelligence/Machine Learning,MLPath,P | L    ,C,Calculus
+Security,SecurityPath,P | CSCI0220 ; CSCI0300 ; CSCI0330,S,Systems
+Software Principles,SoftwarePath,D | CSCI0320 | CSCI0330 ; CSCI0300,O,Foundations
+Computational Biology,CompBioPath,P | D | CSCI1010,,
+Systems,SystemsPath,D ; CSCI0320 | CSCI0300 ; CSCI0330,,
+Theory,TheoryPath,P | L | CSCI1010,,
+Visual Computing,VisualCompPath,L | CSCI0330 ; CSCI0320 ; CSCI 0300,,

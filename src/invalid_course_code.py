@@ -1,0 +1,2 @@
+class InvalidCourseCode(Exception):
+    pass 

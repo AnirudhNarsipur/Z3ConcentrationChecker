@@ -1,0 +1,32 @@
+,name,student_email,banner_id,advisor_name,advisor_email,Result
+0,Student 299,s299@brown.edu,B10000299,Josiah Carberry,carberry@brown.edu,Cannot handle plans other than CS ScB or CS AB
+1,Student 110,s110@brown.edu,B10000110,Josiah Carberry,carberry@brown.edu,FAILED: Intro courses are approved
+2,Student 277,s277@brown.edu,B10000277,Josiah Carberry,carberry@brown.edu,PASSED
+3,Student 247,s247@brown.edu,B10000247,Josiah Carberry,carberry@brown.edu,No capstone course specified
+4,Student 54,s54@brown.edu,B10000054,Josiah Carberry,carberry@brown.edu,PASSED
+5,Student 148,s148@brown.edu,B10000148,Josiah Carberry,carberry@brown.edu,PASSED
+6,Student 191,s191@brown.edu,B10000191,Josiah Carberry,carberry@brown.edu,PASSED
+7,Student 212,s212@brown.edu,B10000212,Josiah Carberry,carberry@brown.edu,PASSED
+8,Student 353,s353@brown.edu,B10000353,Josiah Carberry,carberry@brown.edu,PASSED
+9,Student 482,s482@brown.edu,B10000482,Josiah Carberry,carberry@brown.edu,No capstone course specified
+10,Student 91,s91@brown.edu,B10000091,Josiah Carberry,carberry@brown.edu,Cannot handle plans other than CS ScB or CS AB
+11,Student 74,s74@brown.edu,B10000074,Josiah Carberry,carberry@brown.edu,PASSED
+12,Student 525,s525@brown.edu,B10000525,Josiah Carberry,carberry@brown.edu,FAILED: intermediate courses are approved
+13,Student 131,s131@brown.edu,B10000131,Josiah Carberry,carberry@brown.edu,PASSED
+14,Student 439,s439@brown.edu,B10000439,Josiah Carberry,carberry@brown.edu,PASSED
+15,Student 225,s225@brown.edu,B10000225,Josiah Carberry,carberry@brown.edu,No capstone course specified
+16,Student 547,s547@brown.edu,B10000547,Josiah Carberry,carberry@brown.edu,PASSED
+17,Student 340,s340@brown.edu,B10000340,Josiah Carberry,carberry@brown.edu,PASSED
+18,Student 121,s121@brown.edu,B10000121,Josiah Carberry,carberry@brown.edu,PASSED
+19,Student 461,s461@brown.edu,B10000461,Josiah Carberry,carberry@brown.edu,No capstone course specified
+20,Student 367,s367@brown.edu,B10000367,Josiah Carberry,carberry@brown.edu,PASSED
+21,Student 389,s389@brown.edu,B10000389,Josiah Carberry,carberry@brown.edu,PASSED
+22,Student 416,s416@brown.edu,B10000416,Josiah Carberry,carberry@brown.edu,FAILED: intermediate courses are approved
+23,Student 17,s17@brown.edu,B10000017,Josiah Carberry,carberry@brown.edu,PASSED
+24,Student 318,s318@brown.edu,B10000318,Josiah Carberry,carberry@brown.edu,PASSED
+25,Student 37,s37@brown.edu,B10000037,Josiah Carberry,carberry@brown.edu,PASSED
+26,Student 165,s165@brown.edu,B10000165,Josiah Carberry,carberry@brown.edu,No capstone course specified
+27,Student 263,s263@brown.edu,B10000263,Josiah Carberry,carberry@brown.edu,PASSED
+28,Student 569,s569@brown.edu,B10000569,Josiah Carberry,carberry@brown.edu,PASSED
+29,Student 503,s503@brown.edu,B10000503,Josiah Carberry,carberry@brown.edu,PASSED
+30,Student 1,s1@brown.edu,B10000001,Josiah Carberry,carberry@brown.edu,No capstone course specified
